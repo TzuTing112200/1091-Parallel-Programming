@@ -1,0 +1,3 @@
+/home/vip/Optimization-of-Median-Filter/SIMD_avx256/CMakeFiles/rebuild_cache.dir
+/home/vip/Optimization-of-Median-Filter/SIMD_avx256/CMakeFiles/MedianFilterSIMD.dir
+/home/vip/Optimization-of-Median-Filter/SIMD_avx256/CMakeFiles/edit_cache.dir

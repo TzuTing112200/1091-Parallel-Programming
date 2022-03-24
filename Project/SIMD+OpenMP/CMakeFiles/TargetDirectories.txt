@@ -1,0 +1,3 @@
+/home/vip/Optimization-of-Median-Filter/SIMD+OpenMP/CMakeFiles/rebuild_cache.dir
+/home/vip/Optimization-of-Median-Filter/SIMD+OpenMP/CMakeFiles/MedianFilterSIMDOMP.dir
+/home/vip/Optimization-of-Median-Filter/SIMD+OpenMP/CMakeFiles/edit_cache.dir

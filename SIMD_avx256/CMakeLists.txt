@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project(MedianFilterSIMD)
-find_package( OpenCV REQUIRED )
-add_executable( MedianFilter MedianFilter_SIMD_sort.cpp )
-target_link_libraries( MedianFilter ${OpenCV_LIBS} ${CMAKE_SIMD_LIBS_INIT})
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -mavx -mavx2")
